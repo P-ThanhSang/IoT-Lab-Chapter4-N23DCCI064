@@ -1,0 +1,9 @@
+=== BAO CAO PHONG SERVER ===
+Tong mau: 54
+Nhiet do TB: 41.5
+Nhiet do Min: -11.7, Max: 57.9
+Do am TB: 45.3
+Khoang cach TB: 155.4
+Phat hien nguoi: 5
+Canh bao WARNING: 17
+Canh bao CRITICAL: 31
